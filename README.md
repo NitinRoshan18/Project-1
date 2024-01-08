@@ -1,4 +1,4 @@
 # nitin-project1
-my first git repository
+My first git repository
 <br>
 Author by Nitin Kumar
