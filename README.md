@@ -1,4 +1,4 @@
 # nitin-project1
-My first git repository
+Amazon.in Clone Using HTML5 and CSS
 <br>
 Author by Nitin Kumar
